@@ -1,0 +1,32 @@
+/*
+*
+* base24 Cyberdyne
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #151144;
+@define-color base01 #080808;
+@define-color base02 #2d2d2d;
+@define-color base03 #5e5e5e;
+@define-color base04 #8f8f8f;
+@define-color base05 #c0c0c0;
+@define-color base06 #f1f1f1;
+@define-color base07 #feffff;
+@define-color base08 #ff8272;
+@define-color base09 #d2a700;
+@define-color base0A #c1e3fe;
+@define-color base0B #00c172;
+@define-color base0C #6bffdc;
+@define-color base0D #0071cf;
+@define-color base0E #ff8ffd;
+@define-color base0F #7f4139;
+
+@define-color base10 #1e1e1e;
+@define-color base11 #0f0f0f;
+@define-color base12 #ffc4bd;
+@define-color base13 #fefdd5;
+@define-color base14 #d6fcb9;
+@define-color base15 #e5e6fe;
+@define-color base16 #c1e3fe;
+@define-color base17 #ffb1fe;

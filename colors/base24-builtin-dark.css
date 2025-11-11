@@ -1,0 +1,32 @@
+/*
+*
+* base24 Builtin Dark
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #000000;
+@define-color base01 #000000;
+@define-color base02 #555555;
+@define-color base03 #6e6e6e;
+@define-color base04 #888888;
+@define-color base05 #a1a1a1;
+@define-color base06 #bbbbbb;
+@define-color base07 #ffffff;
+@define-color base08 #bb0000;
+@define-color base09 #bbbb00;
+@define-color base0A #5555ff;
+@define-color base0B #00bb00;
+@define-color base0C #00bbbb;
+@define-color base0D #0000bb;
+@define-color base0E #bb00bb;
+@define-color base0F #5d0000;
+
+@define-color base10 #383838;
+@define-color base11 #1c1c1c;
+@define-color base12 #ff5555;
+@define-color base13 #ffff55;
+@define-color base14 #55ff55;
+@define-color base15 #55ffff;
+@define-color base16 #5555ff;
+@define-color base17 #ff55ff;

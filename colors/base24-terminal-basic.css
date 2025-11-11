@@ -1,0 +1,32 @@
+/*
+*
+* base24 Terminal Basic
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #ffffff;
+@define-color base01 #000000;
+@define-color base02 #666666;
+@define-color base03 #7c7c7c;
+@define-color base04 #929292;
+@define-color base05 #a8a8a8;
+@define-color base06 #bfbfbf;
+@define-color base07 #e5e5e5;
+@define-color base08 #990000;
+@define-color base09 #999900;
+@define-color base0A #0000ff;
+@define-color base0B #00a600;
+@define-color base0C #00a6b2;
+@define-color base0D #0000b2;
+@define-color base0E #b200b2;
+@define-color base0F #4c0000;
+
+@define-color base10 #444444;
+@define-color base11 #222222;
+@define-color base12 #e50000;
+@define-color base13 #e5e500;
+@define-color base14 #00d900;
+@define-color base15 #00e5e5;
+@define-color base16 #0000ff;
+@define-color base17 #e500e5;

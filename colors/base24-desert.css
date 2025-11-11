@@ -1,0 +1,32 @@
+/*
+*
+* base24 Desert
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #333333;
+@define-color base01 #4d4d4d;
+@define-color base02 #555555;
+@define-color base03 #7d776c;
+@define-color base04 #a59984;
+@define-color base05 #cdbb9b;
+@define-color base06 #f5deb3;
+@define-color base07 #ffffff;
+@define-color base08 #ff2b2b;
+@define-color base09 #f0e68c;
+@define-color base0A #87ceff;
+@define-color base0B #98fb98;
+@define-color base0C #ffa0a0;
+@define-color base0D #cd853f;
+@define-color base0E #ffdead;
+@define-color base0F #7f1515;
+
+@define-color base10 #383838;
+@define-color base11 #1c1c1c;
+@define-color base12 #ff5555;
+@define-color base13 #ffff55;
+@define-color base14 #55ff55;
+@define-color base15 #ffd700;
+@define-color base16 #87ceff;
+@define-color base17 #ff55ff;

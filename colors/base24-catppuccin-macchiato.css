@@ -1,0 +1,32 @@
+/*
+*
+* base24 Catppuccin Macchiato
+* Author: https://github.com/catppuccin/catppuccin
+*
+*/
+
+@define-color base00 #24273a;
+@define-color base01 #1e2030;
+@define-color base02 #363a4f;
+@define-color base03 #494d64;
+@define-color base04 #5b6078;
+@define-color base05 #cad3f5;
+@define-color base06 #f4dbd6;
+@define-color base07 #b7bdf8;
+@define-color base08 #ed8796;
+@define-color base09 #f5a97f;
+@define-color base0A #eed49f;
+@define-color base0B #a6da95;
+@define-color base0C #8bd5ca;
+@define-color base0D #8aadf4;
+@define-color base0E #c6a0f6;
+@define-color base0F #f0c6c6;
+
+@define-color base10 #1e2030;
+@define-color base11 #181926;
+@define-color base12 #ee99a0;
+@define-color base13 #f4dbd6;
+@define-color base14 #a6da95;
+@define-color base15 #91d7e3;
+@define-color base16 #7dc4e4;
+@define-color base17 #f5bde6;

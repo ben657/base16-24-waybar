@@ -1,0 +1,32 @@
+/*
+*
+* base24 Vibrant Ink
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #000000;
+@define-color base01 #878787;
+@define-color base02 #555555;
+@define-color base03 #7d7d7d;
+@define-color base04 #a5a5a5;
+@define-color base05 #cdcdcd;
+@define-color base06 #f5f5f5;
+@define-color base07 #e5e5e5;
+@define-color base08 #ff6600;
+@define-color base09 #ffcc00;
+@define-color base0A #0000ff;
+@define-color base0B #ccff04;
+@define-color base0C #44b3cc;
+@define-color base0D #44b3cc;
+@define-color base0E #9933cc;
+@define-color base0F #7f3300;
+
+@define-color base10 #383838;
+@define-color base11 #1c1c1c;
+@define-color base12 #ff0000;
+@define-color base13 #ffff00;
+@define-color base14 #00ff00;
+@define-color base15 #00ffff;
+@define-color base16 #0000ff;
+@define-color base17 #ff00ff;

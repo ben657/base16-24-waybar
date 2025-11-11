@@ -1,0 +1,32 @@
+/*
+*
+* base24 Pencil Light
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #f1f1f1;
+@define-color base01 #212121;
+@define-color base02 #424242;
+@define-color base03 #676767;
+@define-color base04 #8d8d8d;
+@define-color base05 #b3b3b3;
+@define-color base06 #d9d9d9;
+@define-color base07 #f1f1f1;
+@define-color base08 #c30771;
+@define-color base09 #a89c14;
+@define-color base0A #20bbfc;
+@define-color base0B #10a778;
+@define-color base0C #20a5ba;
+@define-color base0D #008ec4;
+@define-color base0E #523c79;
+@define-color base0F #610338;
+
+@define-color base10 #2c2c2c;
+@define-color base11 #161616;
+@define-color base12 #fb007a;
+@define-color base13 #f3e430;
+@define-color base14 #5fd7af;
+@define-color base15 #4fb8cc;
+@define-color base16 #20bbfc;
+@define-color base17 #6855de;

@@ -1,0 +1,32 @@
+/*
+*
+* base24 Galaxy
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #1c2836;
+@define-color base01 #000000;
+@define-color base02 #555555;
+@define-color base03 #6e6e6e;
+@define-color base04 #888888;
+@define-color base05 #a1a1a1;
+@define-color base06 #bbbbbb;
+@define-color base07 #ffffff;
+@define-color base08 #f9555f;
+@define-color base09 #fdba29;
+@define-color base0A #fdf029;
+@define-color base0B #20af89;
+@define-color base0C #1e9ee6;
+@define-color base0D #589cf5;
+@define-color base0E #934d95;
+@define-color base0F #7c2a2f;
+
+@define-color base10 #383838;
+@define-color base11 #1c1c1c;
+@define-color base12 #fa8b8e;
+@define-color base13 #ffff55;
+@define-color base14 #34bb99;
+@define-color base15 #3978bb;
+@define-color base16 #589cf5;
+@define-color base17 #e75598;

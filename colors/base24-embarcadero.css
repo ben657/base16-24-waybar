@@ -1,0 +1,32 @@
+/*
+*
+* base24 Embarcadero
+* Author: Thomas Leon Highbaugh
+*
+*/
+
+@define-color base00 #252a2f;
+@define-color base01 #43474c;
+@define-color base02 #616568;
+@define-color base03 #7f8285;
+@define-color base04 #9ea0a2;
+@define-color base05 #bcbdc0;
+@define-color base06 #dadbdb;
+@define-color base07 #f8f8f8;
+@define-color base08 #ed5d86;
+@define-color base09 #ffcb3d;
+@define-color base0A #eb824d;
+@define-color base0B #20c290;
+@define-color base0C #02efef;
+@define-color base0D #4080d0;
+@define-color base0E #a070d0;
+@define-color base0F #50509f;
+
+@define-color base10 #373742;
+@define-color base11 #717188;
+@define-color base12 #f57d9a;
+@define-color base13 #ffe089;
+@define-color base14 #a0d0a0;
+@define-color base15 #40c0c0;
+@define-color base16 #80b0f0;
+@define-color base17 #c090f0;

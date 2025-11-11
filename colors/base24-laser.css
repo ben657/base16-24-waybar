@@ -1,0 +1,32 @@
+/*
+*
+* base24 Laser
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #030d18;
+@define-color base01 #616161;
+@define-color base02 #8e8e8e;
+@define-color base03 #a6a6a6;
+@define-color base04 #bfbfbf;
+@define-color base05 #d8d8d8;
+@define-color base06 #f1f1f1;
+@define-color base07 #feffff;
+@define-color base08 #ff8272;
+@define-color base09 #09b4bd;
+@define-color base0A #f92883;
+@define-color base0B #b4fa72;
+@define-color base0C #d0d1fe;
+@define-color base0D #fed300;
+@define-color base0E #ff8ffd;
+@define-color base0F #7f4139;
+
+@define-color base10 #5e5e5e;
+@define-color base11 #2f2f2f;
+@define-color base12 #ffc4bd;
+@define-color base13 #fefdd5;
+@define-color base14 #d6fcb9;
+@define-color base15 #e5e6fe;
+@define-color base16 #f92883;
+@define-color base17 #ffb1fe;

@@ -1,0 +1,32 @@
+/*
+*
+* base24 Wez
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #000000;
+@define-color base01 #000000;
+@define-color base02 #555555;
+@define-color base03 #727272;
+@define-color base04 #909090;
+@define-color base05 #aeaeae;
+@define-color base06 #cccccc;
+@define-color base07 #ffffff;
+@define-color base08 #cc5555;
+@define-color base09 #cdcd55;
+@define-color base0A #5555ff;
+@define-color base0B #55cc55;
+@define-color base0C #7acaca;
+@define-color base0D #5455cb;
+@define-color base0E #cc55cc;
+@define-color base0F #662a2a;
+
+@define-color base10 #383838;
+@define-color base11 #1c1c1c;
+@define-color base12 #ff5555;
+@define-color base13 #ffff55;
+@define-color base14 #55ff55;
+@define-color base15 #55ffff;
+@define-color base16 #5555ff;
+@define-color base17 #ff55ff;

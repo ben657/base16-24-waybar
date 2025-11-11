@@ -1,0 +1,32 @@
+/*
+*
+* base24 Lovelace
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #1d1f28;
+@define-color base01 #282a36;
+@define-color base02 #414458;
+@define-color base03 #707281;
+@define-color base04 #9fa0aa;
+@define-color base05 #ceced3;
+@define-color base06 #fdfdfd;
+@define-color base07 #bebec1;
+@define-color base08 #f37f97;
+@define-color base09 #f2a272;
+@define-color base0A #556fff;
+@define-color base0B #5adecd;
+@define-color base0C #79e6f3;
+@define-color base0D #8897f4;
+@define-color base0E #c574dd;
+@define-color base0F #793f4b;
+
+@define-color base10 #2b2d3a;
+@define-color base11 #15161d;
+@define-color base12 #ff4971;
+@define-color base13 #ff8037;
+@define-color base14 #18e3c8;
+@define-color base15 #3fdcee;
+@define-color base16 #556fff;
+@define-color base17 #b043d1;

@@ -1,0 +1,32 @@
+/*
+*
+* base24 Ayu Light
+* Author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
+*
+*/
+
+@define-color base00 #f8f9fa;
+@define-color base01 #edeff1;
+@define-color base02 #d2d4d8;
+@define-color base03 #a0a6ac;
+@define-color base04 #8a9199;
+@define-color base05 #5c6166;
+@define-color base06 #4e5257;
+@define-color base07 #404447;
+@define-color base08 #f07171;
+@define-color base09 #fa8d3e;
+@define-color base0A #f2ae49;
+@define-color base0B #6cbf49;
+@define-color base0C #4cbf99;
+@define-color base0D #399ee6;
+@define-color base0E #a37acc;
+@define-color base0F #e6ba7e;
+
+@define-color base10 #f9f9f9;
+@define-color base11 #ffffff;
+@define-color base12 #ff7383;
+@define-color base13 #ffaa33;
+@define-color base14 #86b300;
+@define-color base15 #55b4d4;
+@define-color base16 #478acc;
+@define-color base17 #b595d6;

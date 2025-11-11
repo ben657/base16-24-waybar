@@ -1,0 +1,32 @@
+/*
+*
+* base24 Ubuntu
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #300a24;
+@define-color base01 #2e3436;
+@define-color base02 #555753;
+@define-color base03 #747772;
+@define-color base04 #949791;
+@define-color base05 #b3b7b0;
+@define-color base06 #d3d7cf;
+@define-color base07 #eeeeec;
+@define-color base08 #cc0000;
+@define-color base09 #c4a000;
+@define-color base0A #729fcf;
+@define-color base0B #4e9a06;
+@define-color base0C #06989a;
+@define-color base0D #3465a4;
+@define-color base0E #75507b;
+@define-color base0F #660000;
+
+@define-color base10 #383a37;
+@define-color base11 #1c1d1b;
+@define-color base12 #ef2929;
+@define-color base13 #fce94f;
+@define-color base14 #8ae234;
+@define-color base15 #34e2e2;
+@define-color base16 #729fcf;
+@define-color base17 #ad7fa8;

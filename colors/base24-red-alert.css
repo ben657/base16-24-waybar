@@ -1,0 +1,32 @@
+/*
+*
+* base24 Red Alert
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #762423;
+@define-color base01 #000000;
+@define-color base02 #262626;
+@define-color base03 #525252;
+@define-color base04 #7e7e7e;
+@define-color base05 #aaaaaa;
+@define-color base06 #d6d6d6;
+@define-color base07 #ffffff;
+@define-color base08 #d52e4d;
+@define-color base09 #beb86b;
+@define-color base0A #65a9f0;
+@define-color base0B #71be6b;
+@define-color base0C #6bbeb8;
+@define-color base0D #479bed;
+@define-color base0E #e878d6;
+@define-color base0F #6a1726;
+
+@define-color base10 #191919;
+@define-color base11 #0c0c0c;
+@define-color base12 #e02453;
+@define-color base13 #dfddb7;
+@define-color base14 #aff08b;
+@define-color base15 #b7dfdd;
+@define-color base16 #65a9f0;
+@define-color base17 #ddb7df;

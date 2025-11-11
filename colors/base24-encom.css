@@ -1,0 +1,32 @@
+/*
+*
+* base24 ENCOM
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #000000;
+@define-color base01 #000000;
+@define-color base02 #555555;
+@define-color base03 #6e6e6e;
+@define-color base04 #888888;
+@define-color base05 #a1a1a1;
+@define-color base06 #bbbbbb;
+@define-color base07 #ffffff;
+@define-color base08 #9f0000;
+@define-color base09 #ffcf00;
+@define-color base0A #0000ff;
+@define-color base0B #008b00;
+@define-color base0C #008b8b;
+@define-color base0D #0081ff;
+@define-color base0E #bc00ca;
+@define-color base0F #4f0000;
+
+@define-color base10 #383838;
+@define-color base11 #1c1c1c;
+@define-color base12 #ff0000;
+@define-color base13 #ffff00;
+@define-color base14 #00ee00;
+@define-color base15 #00cdcd;
+@define-color base16 #0000ff;
+@define-color base17 #ff00ff;

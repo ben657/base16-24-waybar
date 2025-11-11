@@ -1,0 +1,32 @@
+/*
+*
+* base24 Blazer
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #0d1926;
+@define-color base01 #000000;
+@define-color base02 #262626;
+@define-color base03 #525252;
+@define-color base04 #7f7f7f;
+@define-color base05 #acacac;
+@define-color base06 #d9d9d9;
+@define-color base07 #ffffff;
+@define-color base08 #b87a7a;
+@define-color base09 #b8b87a;
+@define-color base0A #bdbddb;
+@define-color base0B #7ab87a;
+@define-color base0C #7ab8b8;
+@define-color base0D #7a7ab8;
+@define-color base0E #b87ab8;
+@define-color base0F #5c3d3d;
+
+@define-color base10 #191919;
+@define-color base11 #0c0c0c;
+@define-color base12 #dbbdbd;
+@define-color base13 #dbdbbd;
+@define-color base14 #bddbbd;
+@define-color base15 #bddbdb;
+@define-color base16 #bdbddb;
+@define-color base17 #dbbddb;

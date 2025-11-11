@@ -1,0 +1,32 @@
+/*
+*
+* base24 Mission Brogue
+* Author: Thomas Leon Highbaugh
+*
+*/
+
+@define-color base00 #283139;
+@define-color base01 #3b4954;
+@define-color base02 #4d606f;
+@define-color base03 #60778a;
+@define-color base04 #788ea1;
+@define-color base05 #93a5b4;
+@define-color base06 #abb9c4;
+@define-color base07 #e7ebee;
+@define-color base08 #efa9a9;
+@define-color base09 #f2db78;
+@define-color base0A #e0b88a;
+@define-color base0B #8cd4b0;
+@define-color base0C #93dfec;
+@define-color base0D #a2c5fd;
+@define-color base0E #ccb7db;
+@define-color base0F #8e9ecb;
+
+@define-color base10 #3e3e3b;
+@define-color base11 #79797a;
+@define-color base12 #f6bfbf;
+@define-color base13 #fff0b2;
+@define-color base14 #b5e090;
+@define-color base15 #b2f0fd;
+@define-color base16 #c3d9fd;
+@define-color base17 #e3c3e6;

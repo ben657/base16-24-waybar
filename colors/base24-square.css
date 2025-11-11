@@ -1,0 +1,32 @@
+/*
+*
+* base24 Square
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #1a1a1a;
+@define-color base01 #050505;
+@define-color base02 #141414;
+@define-color base03 #4b4b4b;
+@define-color base04 #838383;
+@define-color base05 #bababa;
+@define-color base06 #f2f2f2;
+@define-color base07 #e2e2e2;
+@define-color base08 #e9897c;
+@define-color base09 #ecebbe;
+@define-color base0A #b6defb;
+@define-color base0B #b6377d;
+@define-color base0C #c9caec;
+@define-color base0D #a9cdeb;
+@define-color base0E #75507b;
+@define-color base0F #74443e;
+
+@define-color base10 #0d0d0d;
+@define-color base11 #060606;
+@define-color base12 #f99286;
+@define-color base13 #fcfbcc;
+@define-color base14 #c3f786;
+@define-color base15 #d7d9fc;
+@define-color base16 #b6defb;
+@define-color base17 #ad7fa8;

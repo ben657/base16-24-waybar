@@ -1,0 +1,32 @@
+/*
+*
+* base24 Builtin Solarized Light
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #fdf6e3;
+@define-color base01 #073642;
+@define-color base02 #002b36;
+@define-color base03 #3b5a5d;
+@define-color base04 #778985;
+@define-color base05 #b2b8ad;
+@define-color base06 #eee8d5;
+@define-color base07 #fdf6e3;
+@define-color base08 #dc322f;
+@define-color base09 #b58900;
+@define-color base0A #839496;
+@define-color base0B #859900;
+@define-color base0C #2aa198;
+@define-color base0D #268bd2;
+@define-color base0E #d33682;
+@define-color base0F #6e1917;
+
+@define-color base10 #001c24;
+@define-color base11 #000e12;
+@define-color base12 #cb4b16;
+@define-color base13 #657b83;
+@define-color base14 #586e75;
+@define-color base15 #93a1a1;
+@define-color base16 #839496;
+@define-color base17 #6c71c4;

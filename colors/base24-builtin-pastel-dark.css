@@ -1,0 +1,32 @@
+/*
+*
+* base24 Builtin Pastel Dark
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #000000;
+@define-color base01 #4e4e4e;
+@define-color base02 #7c7c7c;
+@define-color base03 #989898;
+@define-color base04 #b5b5b5;
+@define-color base05 #d1d1d1;
+@define-color base06 #eeeeee;
+@define-color base07 #ffffff;
+@define-color base08 #ff6b60;
+@define-color base09 #ffffb6;
+@define-color base0A #b5dcfe;
+@define-color base0B #a7ff60;
+@define-color base0C #c6c4fd;
+@define-color base0D #96cafd;
+@define-color base0E #ff73fd;
+@define-color base0F #7f3530;
+
+@define-color base10 #525252;
+@define-color base11 #292929;
+@define-color base12 #ffb6b0;
+@define-color base13 #ffffcb;
+@define-color base14 #ceffab;
+@define-color base15 #dfdffe;
+@define-color base16 #b5dcfe;
+@define-color base17 #ff9cfe;

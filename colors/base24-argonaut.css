@@ -1,0 +1,32 @@
+/*
+*
+* base24 Argonaut
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #0d0f18;
+@define-color base01 #222222;
+@define-color base02 #444444;
+@define-color base03 #727272;
+@define-color base04 #a1a1a1;
+@define-color base05 #d0d0d0;
+@define-color base06 #ffffff;
+@define-color base07 #ffffff;
+@define-color base08 #ff000f;
+@define-color base09 #ffb900;
+@define-color base0A #0092ff;
+@define-color base0B #8ce00a;
+@define-color base0C #00d7eb;
+@define-color base0D #008df8;
+@define-color base0E #6c43a5;
+@define-color base0F #7f0007;
+
+@define-color base10 #2d2d2d;
+@define-color base11 #161616;
+@define-color base12 #ff273f;
+@define-color base13 #ffd141;
+@define-color base14 #abe05a;
+@define-color base15 #67ffef;
+@define-color base16 #0092ff;
+@define-color base17 #9a5feb;

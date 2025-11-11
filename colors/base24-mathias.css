@@ -1,0 +1,32 @@
+/*
+*
+* base24 Mathias
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #000000;
+@define-color base01 #000000;
+@define-color base02 #555555;
+@define-color base03 #7c7c7c;
+@define-color base04 #a3a3a3;
+@define-color base05 #cacaca;
+@define-color base06 #f2f2f2;
+@define-color base07 #ffffff;
+@define-color base08 #e52222;
+@define-color base09 #fc951e;
+@define-color base0A #5555ff;
+@define-color base0B #a6e32d;
+@define-color base0C #67d9f0;
+@define-color base0D #c48dff;
+@define-color base0E #fa2573;
+@define-color base0F #721111;
+
+@define-color base10 #383838;
+@define-color base11 #1c1c1c;
+@define-color base12 #ff5555;
+@define-color base13 #ffff55;
+@define-color base14 #55ff55;
+@define-color base15 #55ffff;
+@define-color base16 #5555ff;
+@define-color base17 #ff55ff;

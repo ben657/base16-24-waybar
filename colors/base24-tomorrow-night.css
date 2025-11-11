@@ -1,0 +1,32 @@
+/*
+*
+* base24 Tomorrow Night
+* Author: Cody Buell (https://github.com/codybuell)
+*
+*/
+
+@define-color base00 #1d1f21;
+@define-color base01 #282a2e;
+@define-color base02 #373b41;
+@define-color base03 #969896;
+@define-color base04 #b4b7b4;
+@define-color base05 #c5c8c6;
+@define-color base06 #e0e0e0;
+@define-color base07 #ffffff;
+@define-color base08 #cc6666;
+@define-color base09 #de935f;
+@define-color base0A #f0c674;
+@define-color base0B #b5bd68;
+@define-color base0C #8abeb7;
+@define-color base0D #81a2be;
+@define-color base0E #b294bb;
+@define-color base0F #a3685a;
+
+@define-color base10 #080909;
+@define-color base11 #2d3135;
+@define-color base12 #e74c3c;
+@define-color base13 #f7dc6f;
+@define-color base14 #b8d4b3;
+@define-color base15 #95d3ce;
+@define-color base16 #85c1e9;
+@define-color base17 #d7a3ca;

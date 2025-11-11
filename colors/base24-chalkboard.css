@@ -1,0 +1,32 @@
+/*
+*
+* base24 Chalkboard
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #29262f;
+@define-color base01 #000000;
+@define-color base02 #323232;
+@define-color base03 #5b5b5b;
+@define-color base04 #858585;
+@define-color base05 #afafaf;
+@define-color base06 #d9d9d9;
+@define-color base07 #ffffff;
+@define-color base08 #c37372;
+@define-color base09 #c2c372;
+@define-color base0A #aaaadb;
+@define-color base0B #72c373;
+@define-color base0C #72c2c3;
+@define-color base0D #7372c3;
+@define-color base0E #c372c2;
+@define-color base0F #613939;
+
+@define-color base10 #212121;
+@define-color base11 #101010;
+@define-color base12 #dbaaaa;
+@define-color base13 #dadbaa;
+@define-color base14 #aadbaa;
+@define-color base15 #aadadb;
+@define-color base16 #aaaadb;
+@define-color base17 #dbaada;

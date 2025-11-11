@@ -1,0 +1,32 @@
+/*
+*
+* base24 Elementary
+* Author: FredHappyface (https://github.com/fredHappyface)
+*
+*/
+
+@define-color base00 #181818;
+@define-color base01 #242424;
+@define-color base02 #4a4a4a;
+@define-color base03 #737373;
+@define-color base04 #9c9c9c;
+@define-color base05 #c5c5c5;
+@define-color base06 #eeeeee;
+@define-color base07 #8c00eb;
+@define-color base08 #d61b15;
+@define-color base09 #fdb40b;
+@define-color base0A #0855fe;
+@define-color base0B #59a413;
+@define-color base0C #2594e0;
+@define-color base0D #053a8c;
+@define-color base0E #e40038;
+@define-color base0F #6b0d0a;
+
+@define-color base10 #313131;
+@define-color base11 #181818;
+@define-color base12 #fb1b18;
+@define-color base13 #fdc70e;
+@define-color base14 #6ac118;
+@define-color base15 #3ea7fc;
+@define-color base16 #0855fe;
+@define-color base17 #fb004f;
